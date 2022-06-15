@@ -1,0 +1,157 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    position: relative;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: auto;
+   
+}
+.site-header-wrap{
+    display: inline;
+    padding-left: 24px;
+}
+.site-header-wrap p{
+    list-style-type: none;
+    padding-left: 16px;
+    float: right;   
+}
+.site-header-name{
+    display: inline-flex;
+    padding-top: 16px;
+}
+
+header span{
+    font-weight: normal;
+}
+.first-section{
+    margin: auto;
+    width: auto;
+    background-color:rgba(208, 208, 208, 0.822);
+    display: inline-flex;
+}
+.first-section-blog{
+    display: inline-block;
+    margin-top:5%;
+    padding-left: 24px;
+    font-size: x-large;
+}
+.first-section img{
+    margin:32px 24px;
+    width: 60%;
+    max-height: fit-content;
+}
+button{
+    width: 85%;
+    padding:8px 8px;
+    background-color: rgba(47, 43, 43, 0.7);
+    border-style: none;
+    color: azure;
+}
+.second-section-wrap{
+    display: inline-flex; 
+    
+}
+.second-section-right{
+    
+  
+    width: 40%;
+    height: 25%;
+}
+.second-section{
+   
+    width: 60%;
+    height: 25%;
+   
+
+}
+.first-blog-ss{
+   
+    width: 100%;
+}
+.second-blog-ss, .third-blog-ss, .forth-blog-ss{
+    display: inline-flex;
+  
+    padding-top: 32px;
+    margin-left: 16px;
+    padding-left: 16px;
+  
+}
+.forth-blog-ss{
+    background-color: rgba(208, 208, 208, 0.822);
+}
+.second-section img{
+    margin: 32px 24px;
+    width: 100%;
+    max-height:fit-content;   
+}
+.float-right{
+       padding-left: 10px;
+}
+.ss-img{
+    width:35%;
+    height: auto;
+}
+.third-section-course{
+    background-color: rgba(212, 219, 226, 0.887);
+    display: flow-root;
+}
+.third-section-course h3{
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.course-layout-ts{
+  
+    display: inline-flex;
+    width: fit-content;
+    flex-wrap: wrap;
+    margin-left: 72px ;
+   
+}
+.first-course-ts, .second-course-ts, .third-course-ts, .forth-course-ts, .fifth-course-ts, .sixth-course-ts{
+    background-color: whitesmoke;
+   display: block;
+   line-break: loose;
+    height: 20%;
+    width: 30%;
+    padding-left: 72px;
+}   
+
+.third-section-course img{
+   width: 70%;
+   height: auto;
+}
+
+#thesis-exhibit{
+    text-align: center;
+}
+.forth-section-exhibit{
+    display: inlin
+    
+}
+.second-exhibit-fs img{
+    width:35% ;
+    height: auto;
+    
+}
+.second-exhibit-fs{
+  width: 40%;
+ float: right;
+ 
+   
+}
+#fisma-design{
+  
+    background-color: rgba(208, 208, 208, 0.822);
+    display: flex;
+}
+.first-exhibit-fs{
+
+display: inline-block;
+width:50%;
+margin-left: 24px;
+}
+#now-then{
+    display: flex;
